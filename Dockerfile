@@ -1,1 +1,1 @@
-FROM docker pull datmo/keras-tensorflow:cpu
+FROM datmo/keras-tensorflow:cpu
